@@ -17,8 +17,8 @@ Trading instantly with a guaranteed profit. For instance if Station A has a sell
 
 ### C
 
-***Cyno***  
-Cynosural field. Used as a beacon for jump freighters and other ships that can jump instantly between systems.
+**Carebear**  
+A player who does not engage in PvP.
 
 **CONCORD**  
 The NPC space police in high sec. Will respond to aggression at various speed depending on the security status of the system.
@@ -28,6 +28,9 @@ The NPC space police in high sec. Will respond to aggression at various speed de
 0.7 = Roughly 10 seconds.  
 0.6 = Roughly 14 seconds.  
 0.5 = Roughly 19 sedconds.
+
+**Cyno**  
+Cynosural field. Used as a beacon for jump freighters and other ships that can jump instantly between systems.
 
 ### D
 
