@@ -36,45 +36,54 @@ Hauling is somewhat of a niche profession and it can be difficult to find inform
 
 ## Where to start
 
-### An introduction for new haulers
+#### An introduction for new haulers
 Logistics is the backbone of New Eden upon which everything else rests.  
 If, like me, you enjoy the idea of being a space trucker then this is the the career path for you!
 
 If you're new to hauling there are some things you want to get and understanding of and set up before you move on to the rest of this guide so go ahead and read the essentials for becoming a new hauler!
 
-[Hauling essentials](docs/essentials.md)
-<br><br>
+<br>
+
+#### Essentials 
+[Hauler essentials](docs/essentials.md)
+
+<br>
 
 
-### Finding contracts
+#### Finding contracts
 [Contracts](docs/contracts.md)
 
-### Ship progression
+#### Ship progression
 [Ship progression](docs/ship-progression.md)
 
-### Skill plans
+#### Skill plans
 [Skill plans](docs/skill-plans.md)
 
 ## Ship information
-### T1 Industrials
+#### T1 Industrials
 [T1 Industrials](docs/t1-industrials.md)
 
-### Blockade Runners
+#### Blockade Runners
 [Blockade Runners](docs/blockade-runners.md)
 
-### Deep Space Transports
+#### Deep Space Transports
 [Deep Space Transports](docs/deep-space-transports.md)
 
-### Freighters
+#### Freighters
 [Freighters](docs/freighters.md)
 
-### Jump Freighters
+#### Jump Freighters
 [Jump Freighters](docs/jump-freighters.md)
 
 
 ## Using alt characters
+#### Contract alt
 [Contract alt](docs/contract-alt.md)
+
+#### Webbing alt
 [Webbing alt](docs/webbing-alt.md)
+
+#### Cyno alt
 [Cyno alt](docs/cyno-alt.md)
 
 ## Trade routes
