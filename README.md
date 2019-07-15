@@ -24,3 +24,42 @@ Hauling is somewhat of a niche profession and it can be difficult to find inform
   - [Deep Space Transports](#deep-space-transports)
   - [Freighters](#freighters)
   - [Jump Freighters](#jump-freighters)
+- [Using alt characters](#using-alt-characters)
+  - [Webbing alt](#webbing-alt)
+  - [Cyno alt](#cyno-alt)
+- [Trade routes](#trade-routes)
+- [Glossary](#glossary)
+
+
+## Where to start
+
+### Courier contracts
+
+### Ship progression
+
+### Skill plans
+
+### Haulers channel
+
+## Ship information
+
+### T1 Industrials
+
+### Blockade runners
+
+### Deep Space Transports
+
+### Freighters
+
+### Jump Freighters
+
+## Using alt characters
+
+### Webbing alt
+
+### Cyno alt
+
+## Trade routes
+
+## Glossary
+
