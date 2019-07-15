@@ -7,6 +7,9 @@
 
 ### A
 
+**AB**  
+Afterburner.
+
 **Arbitrage trading**  
 Trading instantly with a guaranteed profit. For instance if Station A has a sell order that's lower than a buy order over att Station B so that you can turn a guaranteed profit right away.
 
@@ -16,6 +19,9 @@ Trading instantly with a guaranteed profit. For instance if Station A has a sell
 [Blockade Runner](blockade-runners.md)
 
 ### C
+
+**Collateral**  
+See Collateral under [Contracts](contracts.md)
 
 **Carebear**  
 A player who does not engage in PvP.
@@ -70,6 +76,9 @@ Low security space. All systems with a security rating between 0.1 and 0.4.
 CONCORD will not get involved in these systems and players are free to gank eachother.
 
 ### M
+
+**MWD**  
+Microwarpdrive
 
 ### N
 

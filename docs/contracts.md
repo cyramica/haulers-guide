@@ -62,6 +62,30 @@ A general rule of thumb that's commonly given for trying to be a bit safer in hi
 Although not everyone will abide to it, a good collateral should be about 110%-115% of the cargo value.  
 The purpose of the collateral after all is to reimburse the lost goods, not to make a profit, and having a much higher collateral than cargo value can be a sign of a scam contract.
 
+Needless to say, the more collateral you can put up the more the reward will be.
+
+
+
 ## Spotting scam contracts
 
+Scam contracts are set up in a way to make you very likely, or even guaranteed, to fail the contract.  
+
+Some common warning signs can be
+
+* Pick-up place is in a station where you can't dock.
+* The reward is very low and the collateral very high.
+* The reward is unjustifiably high.
+* The player's contract history is full of failed courier contracts.
+
+
 ## What's a good contract?
+
+A good rule of thumb to judge whether or not a contract has a good reward is one million in reward per billion collateral per jump.
+
+Meaning, if a contract has a 2 billion ISK collateral and the route is 10 jumps then the reward should be at least
+
+2 mil * 10 = 20 million ISK
+
+Other factors also come into play, such as the size of the cargo (does it fit in a DST? Does it need a freighter? BR? JF?), the risk of the route, if it's between major trade hubs, etc.
+
+As a new hauler building your skillset and wallet you'll probably have to lower your standards a  bit though.
