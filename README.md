@@ -56,22 +56,25 @@ If you're new to hauling there are some things you want to get and understanding
 [Skill plans](docs/skill-plans.md)
 
 ## Ship information
+### T1 Industrials
 [T1 Industrials](docs/t1-industrials.md)
 
+### Blockade Runners
 [Blockade Runners](docs/blockade-runners.md)
 
+### Deep Space Transports
 [Deep Space Transports](docs/deep-space-transports.md)
 
+### Freighters
 [Freighters](docs/freighters.md)
 
+### Jump Freighters
 [Jump Freighters](docs/jump-freighters.md)
 
 
 ## Using alt characters
 [Contract alt](docs/contract-alt.md)
-
 [Webbing alt](docs/webbing-alt.md)
-
 [Cyno alt](docs/cyno-alt.md)
 
 ## Trade routes
