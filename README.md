@@ -14,7 +14,7 @@ Hauling is somewhat of a niche profession and it can be difficult to find inform
 
 ## Contents
 
-- [Where to start](#where-to-stat)
+- [Where to start](#where-to-start)
   - [An introduction for new haulers](#an-introduction-for-new-haulers)
   - [Finding contracts](#finding-contracts)
   - [Ship progression](#ship-progression)
