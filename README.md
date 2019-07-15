@@ -47,34 +47,34 @@ If you're new to hauling there are some things you want to get and understanding
 
 
 ### Finding contracts
-[Contracts](contracts.md)
+[Contracts](docs/contracts.md)
 
 ### Ship progression
-[Ship progression](ship-progression.md)
+[Ship progression](docs/ship-progression.md)
 
 ### Skill plans
-[Skill plans](skill-plans.md)
+[Skill plans](docs/skill-plans.md)
 
 ## Ship information
-[T1 Industrials](t1-industrials.md)
+[T1 Industrials](docs/t1-industrials.md)
 
-[Blockade Runners](blockade-runners.md)
+[Blockade Runners](docs/blockade-runners.md)
 
-[Deep Space Transports](deep-space-transports.md)
+[Deep Space Transports](docs/deep-space-transports.md)
 
-[Freighters](freighters.md)
+[Freighters](docs/freighters.md)
 
-[Jump Freighters](jump-freighters.md)
+[Jump Freighters](docs/jump-freighters.md)
 
 
 ## Using alt characters
-[Contract alt](contract-alt.md)
-[Webbing alt](webbing-alt.md)
-[Cyno alt](cyno-alt.md)
+[Contract alt](docs/contract-alt.md)
+[Webbing alt](docs/webbing-alt.md)
+[Cyno alt](docs/cyno-alt.md)
 
 ## Trade routes
-[Trade routes](trade-routes.md)
+[Trade routes](docs/trade-routes.md)
 
 ## Glossary
-[Glossary](glossary.md)
+[Glossary](docs/glossary.md)
 
