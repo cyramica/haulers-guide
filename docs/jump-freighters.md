@@ -13,5 +13,8 @@ Because of that, JF pilots make use of a cyno alt that goes to a station in that
 
 For mor information about cyno alts, [click here](cyno-alt.md).
 
+## Ships
+**TODO**
+
 ## Cargo and EHP
 **TODO**

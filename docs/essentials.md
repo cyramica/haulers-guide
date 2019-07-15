@@ -60,6 +60,7 @@ Joining a player run corporation can be dangerous for a hauler.
 If the corporation owns any sort of structure in space it will be eligible for war declarations which means that players who's corps have declared war on yours are allowed to blow you up in high sec space without any repercussion.
 
 ### Overview settings
+**TODO**
 
 ### Client settings
 

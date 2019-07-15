@@ -69,7 +69,9 @@ If you're new to hauling there are some things you want to get and understanding
 
 ## Using alt characters
 [Contract alt](docs/contract-alt.md)
+
 [Webbing alt](docs/webbing-alt.md)
+
 [Cyno alt](docs/cyno-alt.md)
 
 ## Trade routes
