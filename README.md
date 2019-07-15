@@ -2,20 +2,11 @@
 #### A written guide to hauling in EVE Online
 <br>  
 
-## About this project
->This is an attempt at documenting what I learn as I progress as a hauler in EVE Online so that hopefully it will help others looking for the same information.  
-Hauling is somewhat of a niche profession and it can be difficult to find information that is detailed, exhaustive and friendly to newcomers of the game.
->
->I do not claim to be some sort of expert. I'm simply learning as I go and documenting some of it here for my own use and hopefully some of you will find it useful as well.
->
- --<cite>Cyramica, CEO and founder of Cratefleet</cite>
-
-<br>
 
 ## Contents
 
-- [Where to start](#where-to-start)
-  - [An introduction for new haulers](#an-introduction-for-new-haulers)
+- [About this guide](#about-this-guide)
+  - [New hauler introduction](#new-hauler-introduction)
   - [Finding contracts](#finding-contracts)
   - [Ship progression](#ship-progression)
   - [Skill plans](#skill-plans)
@@ -34,15 +25,28 @@ Hauling is somewhat of a niche profession and it can be difficult to find inform
 
 <br>
 
-## Where to start
 
-#### An introduction for new haulers
+## About this guide
 Logistics is the backbone of New Eden upon which everything else rests.  
 If, like me, you enjoy the idea of being a space trucker then this is the the career path for you!
 
-If you're new to hauling there are some things you want to get and understanding of and set up before you move on to the rest of this guide so go ahead and read the essentials for becoming a new hauler!
+This is an attempt at documenting what I learn as I progress as a hauler in EVE Online so that hopefully it will help others looking for the same information.  
+Hauling is somewhat of a niche profession and it can be difficult to find information that is detailed, exhaustive and friendly to newcomers of the game.
+
+If you're new to hauling there are some things you want to get an understanding of, and set up before you move on to the rest of this guide so go ahead and read the essentials before continuing with the rest of this guide!
+
+I've tried to make this guide as linear as possible, so that you know where to start and what to move towards next.  
+That being said, you're of course free to pick and chose what fits you the best.
+
+I am in no way an expert on these matters and I do not claim to be right, nor that what's written here is the best way to go about things. But this is what I've learned both on my own and with the help of all the friendly, talented and knowledgable players that I've run into!
+
+If you encounter something inaccurate or incomplete that you want to contribute to, feel free to make a pull request or send me an EVE mail in game!
+
+**// Cyramica**
 
 <br>
+
+## New hauler introduction
 
 #### Essentials 
 [Hauler essentials](docs/essentials.md)
