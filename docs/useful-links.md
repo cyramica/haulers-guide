@@ -6,7 +6,12 @@
 
 ### Videos
 
-[EVE Fanfest 2015: Pro Space Truckers]
+[EVE Fanfest 2015: Pro Space Truckers](https://www.youtube.com/watch?v=21LwbnDI2JE)
 [Haulers Channels interview with Rita Jita](https://www.youtube.com/watch?v=oNfBf7Sfw0A)  
 [Talking In Stations - Space Truckers episode with PushX](https://www.youtube.com/watch?v=Yvbr6vwYaCE)  
 [Hauling 101 with Red Frog](https://www.youtube.com/watch?v=zdzw476uyI0)  
+
+### Tools
+
+[Base Rate Calculator](https://kujara.github.io/haulers-channel-reward-calc/ogb.html)  
+[Dotlan's jump planner](http://evemaps.dotlan.net/jump)  

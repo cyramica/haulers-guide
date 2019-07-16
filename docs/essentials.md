@@ -41,6 +41,7 @@ So if you want to keep hauling, make sure you have enough to start earning after
 When you warp to a station you'll usually land just outside of its docking range and have to slowly approach it giving potential gankers time to scan you and blow you up.
 To avoid this you can create an insta dock bookmark when you undock so that you bookmark is as close to the hangar as possible
 
+
 **Insta undocks**
 Insta undock bookmarks are bookmarks located some 150km+ straight out from a station's undock making so that your ship is already aligned and at full speed when you leave the hangar and you're able to warp off very quickly.
 
@@ -53,11 +54,25 @@ Having an undock has saved my life countless times when campers have been waitin
 <br>
 Make a habit to create insta docking bookmarks every time you undock from a station where you haven't made a bookmark previously, and **take the time to get both docking and undocking bookmarks for at least the main trade hubs**.
 
-
+<br>
 
 ### Corporations and war declarations
 Joining a player run corporation can be dangerous for a hauler.
 If the corporation owns any sort of structure in space it will be eligible for war declarations which means that players who's corps have declared war on yours are allowed to blow you up in high sec space without any repercussion.
+
+<br>
+
+### Ransoms
+
+Should someone try and hold you to a ransom while bumping your ship, camping the station you're in or the jumpgate you just got through there is one simple thing you should do: Nothing.
+
+Do not talk to them, do not accept invitations to conversations. 
+
+#### **Do not under any circumstance pay the ransom!**
+
+If you do, all that's gonna lead to is you losing both your ship and the ransom instead of just your ship.
+
+<br>
 
 ### Overview settings
 **TODO**

@@ -6,15 +6,50 @@
 Jump Freighters are the most advanced haulers in the game and take the most time to train into.  
 A Jump Freighters don't have to use regular jump gates and can instead jump to any low or null system, within range of their current system, where a **Cynosural Field** (cyno) has been lit.
 
+<br>
 
-## Cyno alt
+### Jump Fuel
+**TODO**
+
+<br>
+
+### Jumping
+A Jump Freighter can jump FROM any security system and TO any low sec or null sec system in range.
+You can not jump into high sec. The last waypoint must always be low or null sec.
+
+When shipping into high sec, you'll jump to the nearest low sec system and slow boat it through the regular jumpgate using a webbing alt while leaving a Cyno beacon lit in the low sec system so that you're able to do an emergency jump back out should you need to.
+
+To actually perform the jump, just right-click on your ship and select **Jump to** followed by the beacon.
+
+To help with planning your route, see [dotlan's Jump Planner](http://evemaps.dotlan.net/jump) tool.
+
+<br>
+
+### Cyno alt
 In order for Jump Freighters to jump to a destination a cyno must have been lit there.  
 Because of that, JF pilots make use of a cyno alt that goes to a station in that system in order to light a cyno so that the Jump Freighter can jump directly to a station and dock up.
 
 For mor information about cyno alts, [click here](cyno-alt.md).
 
-## Ships
+<br>
+
+### Ships
+
+The following Jump Freighters are available in the game:
+
+* Ark (Amarr)
+* Rhea (Caldari)
+* Anshar (Gallente)
+* Nomad (Minmatar)
+
+<br>
+
+### Cargo and EHP
 **TODO**
 
-## Cargo and EHP
-**TODO**
+<br>
+
+### Collateral
+
+Jump Freighters are fairly safe to use if you know where to place your Cyno in relation to the station.  
+Maximum collateral is therefor pretty much anything you're comfortable losing.

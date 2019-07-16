@@ -3,7 +3,7 @@
 <br>  
 
 
-## Finding contracts
+### Finding contracts
 You'll find the contracts window under the neocom menu under Finance.
 
 <img src="../images/menu-contracts.png">
@@ -22,6 +22,8 @@ Below the search window you have a small arrow-shaped button with further option
 Excluding unreachable is a bit miffy and doesn't always work but generally it hides most stations that don't have docking rights for you to pick up the package.  
 Excluding ignored issues will allow you to ignore scammers so you don't see them in the future!
 
+<br>
+
 ### Haulers channel
 There is an in-game chat channel called **Haulers Channel** that you should definitely join if you want to be a hauler.  
 This is where just about every serious trader will post their public contracts.  
@@ -33,7 +35,9 @@ Many contracts might be out of your league as a newbiew hauler, but there are ev
 
 The channel was created by Rita Jita and you can find an interview with him [over here](https://www.youtube.com/watch?v=oNfBf7Sfw0A)
 
-## Private citadels
+<br>
+
+### Private citadels
 It used to be the case that we ignored all contracts to and from just about every private structure as a common scam was to remove docking rights before you could finish your delivery and thereby being forced to fail the contract and pay the collateral.
 
 Nowadays you can safely deliver TO private structures thanks to the introduction of Cargo Deposits.  
@@ -51,7 +55,9 @@ Or by right-clicking the structure either in your overview or in space.
 
 If a contract has a private station as a pickup place, you should always dock in that station before accepting the contract.
 
-## Collateral
+<br>
+
+### Collateral
 
 The collateral is there to make sure you as a hauler don't steal the cargo.  
 It is withdrawn from your wallet directly upon accepting a contract and returned to you once you finish the contract successfully.  
@@ -64,9 +70,9 @@ The purpose of the collateral after all is to reimburse the lost goods, not to m
 
 Needless to say, the more collateral you can put up the more the reward will be.
 
+<br>
 
-
-## Spotting scam contracts
+### Spotting scam contracts
 
 Scam contracts are set up in a way to make you very likely, or even guaranteed, to fail the contract.  
 
@@ -77,8 +83,9 @@ Some common warning signs can be
 * The reward is unjustifiably high.
 * The player's contract history is full of failed courier contracts.
 
+<br>
 
-## What's a good contract?
+### What's a good contract?
 
 A good rule of thumb to judge whether or not a contract has a good reward is one million in reward per billion collateral per jump.
 

@@ -9,6 +9,8 @@ A webbing alt is a character on a different account than your hauler that is use
 
 A freighter can take almost a minute to jump into warp leaving plenty of time for a gang of gankers to get on you, but by utilizing some clever use of game mechanics we can reduce this to 2-3 seconds.
 
+<br>
+
 ### How it works
 To achieve warp a ship needs to align and reach 75% of its maximum velocity.
 A webifier reduces a ships maximum velocity, thereby making it reach 75% of that velocity much faster.
@@ -29,12 +31,14 @@ If you preloaded your webifiers this will both target and start webbing your fre
 If you don't have proper range for your webs (60km+) then you might have to approach your freighter before you are able to web it.  
 Using ships with bonus to webifiers is therefor recommended.
 
-
+<br>
 
 ### Ships to use
 
 Hyena  
 Daredevil
+
+<br>
 
 ### Fitting the ship
 
@@ -52,7 +56,7 @@ These have a 60% velocity bonus. Lower ones might work but at a slightly higher 
 
 2x Small Core Defense Field Extender
 
-
+<br>
 
 ### Pilot skills
 **TODO*

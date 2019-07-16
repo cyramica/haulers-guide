@@ -25,6 +25,8 @@ For very short trips back and forth, inartial stabilizers and nanite plating.
 
 > **TODO** table of ships with cargo sizes and EHP with the different fittings.
 
+<br>
+
 ### Collateral
 
 The general recommendation is to never haul more than about 1 billion ISK in a Freighter.

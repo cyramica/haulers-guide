@@ -8,12 +8,14 @@ Deep Space Transport ships are the daily drivers for most haulers and I would sa
 
 DSTs are popular because they can carry up to 62,500m3 (with **Transport Ships V** trained) and fit a very high tank, i.e effective hp, for their size.
 
+
 #### The Fleet Hangar
 DSTs are a little special in that they have a small regular cargohold but a fairly big Fleet Hangar.  
 The cargo capacity of the Fleet Hangar scales not with fittings but with your **Transport Ships** skill.
 
 Most haulers only bother with training **Transports Ships** up to level 4, and therefor most DST contracts stay below 60,000m3.
 
+<br>
 
 ### Ships
 
@@ -24,18 +26,25 @@ The following Deep Space Transport ships are available in the game:
 * Occator (Gallente)
 * Mastodon (Minmatar)
 
+<br>
+
 ### Fittings
 
 **TODO**
+
+<br>
 
 ### Cloak + MWD trick
 
 **TODO**
 
+<br>
+
 ### Collateral
 
 If you have a tanky fit and you can perform a consistently perfect Claok + MWD trick in your sleep then you can fairly safely ship any collateral you feel comfortable with in a DST.
 
+<br>
 
 ### DSTs and Low Sec
 
