@@ -24,6 +24,12 @@ Although your character will be stuck in space for 10 minutes, I've been told th
 
 <br>
 
+### Cyno placement
+
+**TODO**
+
+<br>
+
 ### Skill plan
 
 The most important thing for a cyno alt is to be able to fly a ship and equip and use a Cynosural Field Generator.  
@@ -56,5 +62,3 @@ Biology IV
 ```
 
 <br>
-
-**TODO**

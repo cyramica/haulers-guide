@@ -40,11 +40,19 @@ Just make sure you are fitting for a minimal align time and you hit that cloak e
 
 ### Minimum skills
 
+These are the bare minimum skills needed to get into a Blockade Runner.  
+This example uses an Amarr character.
+
 ```
-Racial (i.e amarr/caldari/gallente/minmatar) Industrial V
+Amarr Industrial II
+Amarr Industrial III
+Amarr Industrial IV
+Amarr Industrial V
 Industry II
 Industry III
 Industry IV
 Industry V
 Transport Ships I
 ```
+
+**Total training time**: 29 days, 15 hours and 15 minutes.

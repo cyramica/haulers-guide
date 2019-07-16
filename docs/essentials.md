@@ -75,7 +75,6 @@ If you do, all that's gonna lead to is you losing both your ship and the ransom 
 <br>
 
 ### Overview settings
-**TODO**
 
 You can change your Overview settings by clicking on this button here
 

@@ -78,4 +78,4 @@ Industry V
 Transport Ships I
 ```
 
-Total training time: 29 days, 15 hours and 15 minutes.
+**Total training time**: 29 days, 15 hours and 15 minutes.
