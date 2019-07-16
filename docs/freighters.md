@@ -6,7 +6,7 @@
 
 Freighters are capital ships made for hauling large sized cargos through high security space.  
 The drawback is that they're really slow, both in aligning and during warp.  
-The align time can be overcome by using a [webbing alt](docs/webbing-alt.md) though.
+The align time can be overcome by using a [webbing alt](webbing-alt.md) though.
 
 The following Freighters are available in the game:
 

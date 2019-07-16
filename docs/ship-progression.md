@@ -13,7 +13,7 @@ These are not very good for doing actual contracts though as they have a limited
 
 But they serve their role as a starting point for new players and are what you'll likely get into at first.
 
- Read more about [T1 Industrials here](docs/t1-industrials.md).
+ Read more about [T1 Industrials here](t1-industrials.md).
 
 <br>
 
@@ -27,7 +27,7 @@ A Blockade Runner can be useful in certain situations, but it's not really neces
 
 In short, go for a DST first and don't bother with the BR until you really feel the need for one.
 
-Read more about [Deep Space Transports here](docs/deep-space-transports.md) and [Blockade Runners here](docs/blockade-runners.md).
+Read more about [Deep Space Transports here](deep-space-transports.md) and [Blockade Runners here](blockade-runners.md).
 
 <br>
 
@@ -42,7 +42,7 @@ You do not need a [webbing alt](docs/webbing-alt.md) to fly one, but it is recom
 
 Having a freighter is awesome, but you'll probably still find that you spend most of your time in a Deep Space Transport unless you start working for a freight corporation such as Red Frog or PushX.
 
-Read more about [Freighters here](docs/freighters.md).
+Read more about [Freighters here](freighters.md).
 
 <br>
 
@@ -51,7 +51,7 @@ Read more about [Freighters here](docs/freighters.md).
 Jump Freighters are the most advanced haulers out there.  
 They allow you to haul freight to low- and null sec by jumping from one station directly to another through the use of a Cynosural Field Beacon.
 
-Because of their reliance on beacons, it is necessary to have a [Cyno alt](docs/cyno-alt.md) if you want to work as a Jump Freighter pilot.
+Because of their reliance on beacons, it is necessary to have a [Cyno alt](cyno-alt.md) if you want to work as a Jump Freighter pilot.
 
 Training into flying a Jump Freighter takes about 130 days and once you can fly it they cost around 10-15 billion ISK to purchase from the market.
 
@@ -59,5 +59,5 @@ Because of their high price, Jump Freighters are not used to haul in between hig
 
 Flying Jump Freighters can be very lucrative and many JF pilots don't even bother to undock for less than 200 mil.
 
-Read more about [Jump Freighters here](docs/jump-freighters.md)
+Read more about [Jump Freighters here](jump-freighters.md)
 
