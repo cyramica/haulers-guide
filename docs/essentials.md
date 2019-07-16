@@ -77,6 +77,23 @@ If you do, all that's gonna lead to is you losing both your ship and the ransom 
 ### Overview settings
 **TODO**
 
+You can change your Overview settings by clicking on this button here
+
+<img src="../images/overview-settings-button.png">
+
+I suggest you add a tab with just jumpgates and stations so that you can filter out all the "noise" such as ships, mobile depots, etc. at popular destinations and makes finding your waypoint easier.
+
+You could also add a tab that shows just stations and ships or just stations and ships that are likely to be used for bumping and so on.
+
+Play around a bit with it while flying to see what you like.
+
+One really useful setting though is to enable a backkground colour for other pilots.  
+That way you will see really easily when there's other ships around you and you might have to be extra careful or expect some extra lag while doing the cloak+mwd for instance.
+
+<img src="../images/overview-background-settings.png">
+
+<br><br>
+
 ### Client settings
 
 Make sure your client is set to reject all invitations to duel:
@@ -91,3 +108,6 @@ Set your route planner to always prefer high sec space:
 
 <br><br>
 
+Enable tactical overlay to be able to see distances, your alignment and more.
+
+<img src="../images/tactical-overlay.png">
