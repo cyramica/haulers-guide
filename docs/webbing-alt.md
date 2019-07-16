@@ -23,7 +23,7 @@ Steps:
 1. Jump your webbing alt through the gate. Scout and make sure it looks safe.
 2. Align your webbing alt to break cloak, then immediately stop the ship (ctrl+space).
 3. Jump through the gate with your freighter.
-4. Preload your webifiers on your alt by holding shift and clicking the modules.
+4. Preload your webifiers on your alt by holding ctrl and clicking the modules.
 5. Start to warp your freighter to the next destination.
 6. Alt+tab back to your alt and as soon as your freighter becomes visible in the overview, click it.  
 If you preloaded your webifiers this will both target and start webbing your freighter.
