@@ -40,7 +40,27 @@ The following Deep Space Transport ships are available in the game:
 
 ### Cloak + MWD trick
 
-**TODO**
+The Cloak + Microwarpdrive trick is a clever use of game mechanics that allows your DST to align and accelerate while cloaked and then jump into warp immedietly as you decloak.
+
+It works like this:
+
+1. Click **Align to** on your overview.
+2. Activate your cloaking device.
+3. Activate your microwarpdrive.
+4. Spam your microwarpdrive button. This will display an error message with a countdown timer.  
+   When this timer shows 2, deactivate your cloak.
+5. Click **Warp to** on your overview.
+
+If you put your cloak on your F1 key and your microwarpdrive on your F2 key, it'll go like this:
+
+1. Align to
+2. Hit F1 immedietly followed by F2.
+3. Spam F2 until the timer shows 2 seconds.
+4. Hit F1 and click Warp To.
+
+You have a window to hit it that's larger than when the timer shows 2 seconds, but I find that doing it with 2 seconds left always makes for good timing, so it's just playing it somewhat safe.
+
+>**TODO** Make a youtube video showcasing the trick
 
 <br>
 
