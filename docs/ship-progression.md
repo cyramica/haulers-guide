@@ -40,7 +40,7 @@ A freighter costs roughtly 1-1.5 billion ISK to purchase
 
 You do not need a [webbing alt](docs/webbing-alt.md) to fly one, but it is recommended as jumping into warp can take upwards a minute without one and around 3 seconds with one.
 
-Having a freighter is awesome, but you'll probably still find that you spend most time in a Deep Space Transport.
+Having a freighter is awesome, but you'll probably still find that you spend most of your time in a Deep Space Transport unless you start working for a freight corporation such as Red Frog or PushX.
 
 Read more about [Freighters here](docs/freighters.md).
 

@@ -53,3 +53,46 @@ The following Jump Freighters are available in the game:
 
 Jump Freighters are fairly safe to use if you know where to place your Cyno in relation to the station.  
 Maximum collateral is therefor pretty much anything you're comfortable losing.
+
+<br>
+
+### Minimum skills
+
+These are the bare minimum skills needed to get into a Jump Freighter.  
+This example uses an Amarr character.
+
+```
+Spaceship Command IV
+Spaceship Command V
+Advanced Spaceship Command I
+Advanced Spaceship Command II
+Advanced Spaceship Command III
+Advanced Spaceship Command IV
+Advanced Spaceship Command V
+Amarr Industrial II
+Amarr Industrial III
+Amarr Freighter I
+Amarr Freighter II
+Amarr Freighter III
+Amarr Freighter IV
+Industry II
+Industry III
+Industry IV
+Industry V
+Jump Freighters I
+Navigation IV
+Navigation V
+Warp Drive Operation II
+Warp Drive Operation III
+Warp Drive Operation IV
+Warp Drive Operation V
+Science V
+Jump Drive Operation I
+Jump Drive Operation II
+Jump Drive Operation III
+Jump Drive Operation IV
+Jump Drive Operation V
+Jump Drive Calibration I
+```
+
+**Total training time**: 98 days, 18 hours, 51 minutes

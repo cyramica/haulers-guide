@@ -33,3 +33,24 @@ The general recommendation is to never haul more than about 1 billion ISK in a F
 
 If you're using a webbing alt you could go up to 2 billion, which is the maximum most Freight companies will allow for a normal contract.
 
+<br>
+
+### Minimum skills
+
+Tehse are the bare minimum skills needed to get into a Jump Freighter.  
+This example assumes an Amarr character.
+
+```
+Spaceship Command IV
+Spaceship Command V
+Advanced Spaceship Command I
+Advanced Spaceship Command II
+Advanced Spaceship Command III
+Advanced Spaceship Command IV
+Advanced Spaceship Command V
+Amarr Industrial II
+Amarr Industrial III
+Amarr Freighter I
+```
+
+**Total training time**: 36 days, 3 hours and 30 minutes.

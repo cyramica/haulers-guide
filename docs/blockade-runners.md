@@ -35,3 +35,16 @@ Can't really give much advice on this other than give it go, get a feel for it a
 
 BRs can be alright to ship smaller cargo into low sec with.  
 Just make sure you are fitting for a minimal align time and you hit that cloak every time.
+
+<br>
+
+### Minimum skills
+
+```
+Racial (i.e amarr/caldari/gallente/minmatar) Industrial V
+Industry II
+Industry III
+Industry IV
+Industry V
+Transport Ships I
+```

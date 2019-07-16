@@ -8,6 +8,10 @@ Deep Space Transport ships are the daily drivers for most haulers and I would sa
 
 DSTs are popular because they can carry up to 62,500m3 (with **Transport Ships V** trained) and fit a very high tank, i.e effective hp, for their size.
 
+#### Training Time
+
+Training into DSTs takes a minimum of about 30 days with an additional 6 days to get **Transport Ships** to level 4.
+
 
 #### The Fleet Hangar
 DSTs are a little special in that they have a small regular cargohold but a fairly big Fleet Hangar.  
@@ -54,3 +58,24 @@ If you decide to do this you need to be aware that the cost of ganking you is ze
 Therefor, should you decide you want to ship to low sec and you're carrying a somewhat valuable load, I would recommend using another character to scout ahead of you.
 
 Also use that character to create bookmarks to insta dock and undock on the station you're going to.
+
+<br>
+
+### Minimum skills
+
+These are the bare minimum skills needed to get into a Deep Space Transport.  
+This example uses an Amarr character.
+
+```
+Amarr Industrial II
+Amarr Industrial III
+Amarr Industrial IV
+Amarr Industrial V
+Industry II
+Industry III
+Industry IV
+Industry V
+Transport Ships I
+```
+
+Total training time: 29 days, 15 hours and 15 minutes.

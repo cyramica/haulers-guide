@@ -8,3 +8,4 @@ Shipments going between major trade hubs are often slightly cheaper because the 
 <br>
 
 <img src="../images/trade-route-map.png">
+
