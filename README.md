@@ -108,7 +108,7 @@ Freighters are the iconic space whales hauling giant crates of freight from one 
 
 The big brothers to freighters, these technological marvels can use their jump drives to get directly from one station to the next without having to pass through jumpgates, making them ideal for low sec and null sec hauling.
 
-[Read aboutJump Freighters](docs/jump-freighters.md)
+[Read about Jump Freighters](docs/jump-freighters.md)
 
 <br>
 
