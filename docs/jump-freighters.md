@@ -9,7 +9,20 @@ A Jump Freighters don't have to use regular jump gates and can instead jump to a
 <br>
 
 ### Jump Fuel
-**TODO**
+
+Jump Freighters need fuel in the form of isotopes in order to use their jump drives.
+
+Ark uses Helium Isotopes.  
+Rhea uses Nitrogen Isotopes.  
+Anshar uses Oxygen Isotopes.  
+Nomad uses Hydrogen Isotopes.
+
+The amount of fuel needed varies depending on the distance and your pilot's skills. Make sure you have enough with you for the return trip as well.
+
+You can reduce the fuel used by training the **Jump Fuel Conservation** skill.
+
+[Dotlan's Jump Planner](http://evemaps.dotlan.net/jump) tool will show you how much fuel is needed.
+
 
 <br>
 
@@ -21,7 +34,7 @@ When shipping into high sec, you'll jump to the nearest low sec system and slow 
 
 To actually perform the jump, just right-click on your ship and select **Jump to** followed by the beacon.
 
-To help with planning your route, see [dotlan's Jump Planner](http://evemaps.dotlan.net/jump) tool.
+To help with planning your route, see [Dotlan's Jump Planner](http://evemaps.dotlan.net/jump) tool.
 
 <br>
 

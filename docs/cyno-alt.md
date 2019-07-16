@@ -6,6 +6,8 @@
 ## Cyno alt
 Cyno alts are characters on a second account that are used by Jump Freighter Pilots to light a beacon for their Jump Freighter to jump to.
 
+The Cynosural Field Generator uses Liquid Ozone to work.  Make sure you bring enough with you in your cyno ship as well as in your Jump Freighter so that you're not left stranded and have to fly to some trade station to buy more.
+
 <br>
 
 ### Lighting a Cyno
