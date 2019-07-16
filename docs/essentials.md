@@ -73,3 +73,6 @@ Make sure your client is set to reject all invitations to duel:
 Set your route planner to always prefer high sec space:
 
 <img src="../images/routesettings.png">
+
+<br><br>
+
