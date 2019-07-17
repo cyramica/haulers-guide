@@ -58,6 +58,12 @@ If you put your cloak on your F1 key and your microwarpdrive on your F2 key, it'
 3. Spam F2 until the timer shows 2 seconds.
 4. Hit F1 and click Warp To.
 
+<br>
+
+This is where to look
+
+<img src="../images/warpdrive-countdown.png">
+
 You have a window to hit it that's larger than when the timer shows 2 seconds, but I find that doing it with 2 seconds left always makes for good timing, so it's just playing it somewhat safe.
 
 >**TODO** Make a youtube video showcasing the trick
