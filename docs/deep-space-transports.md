@@ -66,6 +66,12 @@ This is where to look
 
 You have a window to hit it that's larger than when the timer shows 2 seconds, but I find that doing it with 2 seconds left always makes for good timing, so it's just playing it somewhat safe.
 
+---
+
+**TIP** When you want to use an insta dock bookmark while doing the Cloak+mwd trick, align as usual and enable cloak and mwd. Then either right in space or in your Places window and hover your mouse over the **Warp to within 0m** option as usual. You will still be able to spam F2 without the menu closing until you click it.
+
+---
+
 >**TODO** Make a youtube video showcasing the trick
 
 <br>
