@@ -39,6 +39,7 @@ When you look at contracts, also keep in mind that you'll have to return to your
 Along with the cost of collateral and time to do a contract, there is also the opportunity cost.  
 If you go on a long haul for a bad pay, you could miss out on more lucrative contracts while you're away.
 
+The potential for a real big income comes once you can properly fly a Jump Freighter with PushX's CEO Cassie Hello reporting an average of about 10 billion ISK per week for their pilots and the recording being 60 billion ISK in a month during their interview on [Talking In Stations](https://www.youtube.com/watch?v=Yvbr6vwYaCE)  
 
 <br>
 
