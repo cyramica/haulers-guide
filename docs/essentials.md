@@ -17,10 +17,32 @@ That doesn't mean you can't have fun being a space truck from the get-go, though
 
 <br>
 
-### Risk / Reward
+### Making money as a hauler
 
 Earning money as a hauler can be a bit difficult when you're just starting out.  
-A lot of contracts require high collateral or high cargo space, but there are plenty contracts for new haulers as well! If you join the **Haulers Channel** channel in-game, some contractors even go out of their way to create contracts specifically for new haulers.
+A lot of contracts require high collateral or high cargo space, but there are plenty of contracts for new haulers as well! If you join the **Haulers Channel** channel in-game, some contractors even go out of their way to create contracts specifically for new haulers every now and then.  
+
+You'll definitely need patience if you're new with low skills though.
+
+The snowball really only gets moving when you're in your [Deep Space Transport ship](deep-space-transports.md) and have about 500 million ISK to put up for collateral.  
+Then once you save up 1 billion ISK for collaterals the snowball really gets rolling.
+
+What you should be looking at as far as reward goes is ISK per jump.  
+When you're starting out you're going to have to settle for less, but as you grow your skills you shouldn't really be looking at anything below 1 million ISK per jump. And for every billion in collateral that reward should go up by a million per jump.  
+
+This is a rule of thumb and not a rule of law.
+
+Most trading takes place to and from Jita with the main station being **Jita IV - Moon 4 - Caldari Navy Assembly Plant**, so making this your base of operations so to speak makes sense.
+
+When you look at contracts, also keep in mind that you'll have to return to your base of operations and take those jumps into account.
+
+Along with the cost of collateral and time to do a contract, there is also the opportunity cost.  
+If you go on a long haul for a bad pay, you could miss out on more lucrative contracts while you're away.
+
+
+<br>
+
+### Risk / Reward
 
 A common motto in EVE is "Don't fly what you can't afford to lose" and this is even more true for Haulers because if you get blown up you'll not only have to replace your ship but you will lose the collateral and you'll have to find funds to afford collaterals for your next contract so you can keep on earning.
 
@@ -71,6 +93,7 @@ Do not talk to them, do not accept invitations to conversations.
 #### **Do not under any circumstance pay the ransom!**
 
 If you do, all that's gonna lead to is you losing both your ship and the ransom instead of just your ship.
+
 
 <br>
 
