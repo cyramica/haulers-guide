@@ -40,7 +40,7 @@ The channel was created by Rita Jita and you can find an interview with him [ove
 ### Private citadels
 It used to be the case that we ignored all contracts to and from just about every private structure as a common scam was to remove docking rights before you could finish your delivery and thereby being forced to fail the contract and pay the collateral.
 
-Nowadays you can safely deliver TO private structures thanks to the introduction of Cargo Deposits.  
+Nowadays you can deliver TO private structures even if you can't dock thanks to the introduction of Cargo Deposits.  
 If you can't dock at a station, you can open your Cargo Deposit by selecting the station in your overview and clicking the button in the Selected Item window:
 
 <img src="../images/cargo-deposit.png">
@@ -53,7 +53,11 @@ Or by right-clicking the structure either in your overview or in space.
 
 ---
 
-If a contract has a private station as a pickup place, you should always dock in that station before accepting the contract.
+Even if you're able to unload your cargo into the cargo deposit, remember that it might leave your ship vulnerable while doing so and then having to align and warp out.  
+If you're delivering to a private station in lowsec then this will give plenty of time for gankers to lock on to you.
+
+If a contract has a private station as a pickup place, you should always dock in that station before accepting the contract.  
+
 
 <br>
 
