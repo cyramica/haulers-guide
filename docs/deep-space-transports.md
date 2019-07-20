@@ -72,7 +72,9 @@ You have a window to hit it that's larger than when the timer shows 2 seconds, b
 
 ---
 
->**TODO** Make a youtube video showcasing the trick
+Have a look at this instructional video for a step by step visual explanation.
+
+[<img src="../images/cloak-mwd-video-thumbnail.png">](https://youtu.be/_i78dAwjyu8)
 
 <br>
 

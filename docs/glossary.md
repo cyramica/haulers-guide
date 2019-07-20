@@ -48,7 +48,10 @@ Cynosural field. Used as a beacon for jump freighters and other ships that can j
 ### F
 
 **FR**  
-Flashing Red - Used when reporting intel.
+Flashing Red - Having a criminal timer.
+
+**FY**  
+Flashing Yellow - Having a suspect timer.
 
 ### G
 
