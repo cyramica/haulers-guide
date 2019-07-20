@@ -47,6 +47,9 @@ Cynosural field. Used as a beacon for jump freighters and other ships that can j
 
 ### F
 
+**FR**  
+Flashing Red - Used when reporting intel.
+
 ### G
 
 **Gate camp**  
@@ -84,6 +87,9 @@ Microwarpdrive
 
 **Null sec**  
 Regions of space with a security status below 0.0. Here be dragons!
+
+**NV**  
+No Visual - Used when reporting intel.
 
 ### O
 

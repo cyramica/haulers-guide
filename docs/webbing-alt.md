@@ -22,7 +22,8 @@ In order to be able to web your hauler without becoming a criminal you need to e
 Steps:
 1. Jump your webbing alt through the gate. Scout and make sure it looks safe.
 2. Align your webbing alt to break cloak, then immediately stop the ship (ctrl+space).
-3. Jump through the gate with your freighter.
+   Alternatively (depending on your webbing range) approach the gate to be in the middle.
+3. Jump through the gate with your freighter. Make sure you're within range of your webbers.
 4. Preload your webifiers on your alt by holding ctrl and clicking the modules.
 5. Start to warp your freighter to the next destination.
 6. Alt+tab back to your alt and as soon as your freighter becomes visible in the overview, click it.  
@@ -36,7 +37,8 @@ Using ships with bonus to webifiers is therefor recommended.
 ### Ships to use
 
 Hyena  
-Daredevil
+Daredevil  
+Rapier
 
 <br>
 

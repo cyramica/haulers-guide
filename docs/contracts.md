@@ -61,6 +61,26 @@ If a contract has a private station as a pickup place, you should always dock in
 
 <br>
 
+### Package size
+
+Make sure your cargo hold can fit the size of the cargo.  
+
+You can see the size of the cargo in the contract window here:
+
+<img src="../images/contract-cargo-size.png">
+
+And the size of your current ship's available cargohold in the inventory window here:
+
+<img src="../images/ship-cargohold.png">
+
+---
+
+**WARNING**  You can NOT split a package up into smaller sizes for multiple runs. Whatever the size of the package when you accept the contract is the size you will have to haul.
+
+<br>
+
+---
+
 ### Collateral
 
 The collateral is there to make sure you as a hauler don't steal the cargo.  
@@ -86,6 +106,13 @@ Some common warning signs can be
 * The reward is very low and the collateral very high.
 * The reward is unjustifiably high.
 * The player's contract history is full of failed courier contracts.
+
+To see a player's contract history, click on their name to open their profile and then click the top left menu:
+
+<img src="../images/show-contract-history.png">
+
+Just because there are some failed contracts doesn't mean it's a scammer. But if you see a pattern, be weary.  
+Also make sure to look at their courier contracts and not item contracts and that they haven't faked a history within the last couple of days by for instance sending bookmarks to the same pilot over and over again.
 
 <br>
 
