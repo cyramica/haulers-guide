@@ -32,6 +32,9 @@ If you preloaded your webifiers this will both target and start webbing your fre
 If you don't have proper range for your webs (60km+) then you might have to approach your freighter before you are able to web it.  
 Using ships with bonus to webifiers is therefor recommended.
 
+Another way of guaranteeing that you're within range is to join a fleet with your webber and hauler, then warp off with your webber as it is likely going to be through the gate way before your hauler.  
+Then once your hauler is through and invisible, you go on your webbing alt and in the fleet window you chose **Warp to member**.
+
 <br>
 
 ### Ships to use
