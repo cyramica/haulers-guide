@@ -39,9 +39,11 @@ Then once your hauler is through and invisible, you go on your webbing alt and i
 
 ### Ships to use
 
-Hyena  
+Cruor  
 Daredevil  
-Rapier
+Hyena  
+Rapier  
+
 
 <br>
 
@@ -64,4 +66,6 @@ These have a 60% velocity bonus. Lower ones might work but at a slightly higher 
 <br>
 
 ### Pilot skills
-**TODO**
+
+**Electronic Attack** Ships will increase the range of your statis webifiers.  
+**Propulsion Jamming** Reduces the capacitor needed for webifiers.
