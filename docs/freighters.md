@@ -23,7 +23,31 @@ For high collateral, use Reinforced Bulkheads II.
 For large cargo sizes, use Expanded Cargoholds II.  
 For very short trips back and forth, inartial stabilizers and nanite plating.
 
-> **TODO** table of ships with cargo sizes and EHP with the different fittings.
+Mix and match as needed.
+
+#### Expanded Cargohold II
+| Ship | Cargo Capacity | EHP |
+|--|---|---|
+| Charon | 1,204,741 ㎥ | 179,995 |
+| Fenrir | 1,127,015 ㎥ | 178,863 |
+| Obelisk | 1,139,970 ㎥ | 191,903	|
+| Providence | 1,127,015 ㎥ | 187,601 |
+
+#### Reinforce Bulkheads II
+| Ship | Cargo Capacity | EHP |
+|--|---|---|
+| Charon | 409,763 ㎥ | 396,386 |
+| Fenrir | 383,327 ㎥ | 360,352 |
+| Obelisk | 387,733 ㎥ | 499,040	|
+| Providence | 383,327 ㎥ | 466,816 |
+
+#### Inertial Stabilizers II
+| Ship | Cargo Capacity | EHP |
+|--|---|---|
+| Charon | 581,250 ㎥ | 258,574 |
+| Fenrir | 543,750 ㎥ | 244,768 |
+| Obelisk | 550,000 ㎥ | 303,436	|
+| Providence | 543,750 ㎥ | 288,994 |
 
 <br>
 
