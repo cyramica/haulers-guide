@@ -39,10 +39,12 @@ Then once your hauler is through and invisible, you go on your webbing alt and i
 
 ### Ships to use
 
-Cruor  
-Daredevil  
-Hyena  
-Rapier  
+| Name | Value | Bonus |
+|------|-------|-------|
+| Cruor | Range | 20% per level of Minmatar Frigate |
+| Daredevil | Web effectiveness | 10% per level of Minmatar Frigate |
+| Hyena | Range | 40% per level of Electronic Attack Ships |
+| Rapier | Range | 60% per level of Recon Ships |
 
 
 <br>
@@ -67,5 +69,4 @@ These have a 60% velocity bonus. Lower ones might work but at a slightly higher 
 
 ### Pilot skills
 
-**Electronic Attack** Ships will increase the range of your statis webifiers.  
 **Propulsion Jamming** Reduces the capacitor needed for webifiers.
