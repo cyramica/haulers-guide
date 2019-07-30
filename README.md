@@ -147,7 +147,7 @@ EVE is full of its own expressions that can be difficult to understand. Here I'l
 [Glossary](docs/glossary.md)
 
 
-## Useful Links
+## Useful links
 
 A helpful collection of links to tools, videos and other things related to hauling in EVE Online.
 

@@ -46,6 +46,16 @@ For mor information about cyno alts, [click here](cyno-alt.md).
 
 <br>
 
+---
+
+**WARNING** Once a cyno is lit the ship being used to light it will be locked into place for 10 minutes and the cyno will be visible for everyone in that system.  
+You WILL get blown up often. Do not use an expensive ship. Preferably use your free starting ship.
+
+---
+
+
+<br>
+
 ### Ships
 
 The following Jump Freighters are available in the game:
