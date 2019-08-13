@@ -22,6 +22,7 @@
   - [Cyno alt](#cyno-alt)
 - [Trade routes](#trade-routes)
 - [Glossary](#glossary)
+- [Useful links](#useful-links)
 
 <br>
 
@@ -145,3 +146,9 @@ EVE is full of its own expressions that can be difficult to understand. Here I'l
 
 [Glossary](docs/glossary.md)
 
+
+## Useful links
+
+A helpful collection of links to tools, videos and other things related to hauling in EVE Online.
+
+[Useful links](docs/useful-links.md)
