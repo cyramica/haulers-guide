@@ -58,6 +58,10 @@ If you put your cloak on your F1 key and your microwarpdrive on your F2 key, it'
 3. Spam F2 until the timer shows 2 seconds.
 4. Hit F1 and click Warp To.
 
+For the sake of completing the trick, it doesn't really matter if you hit the cloak or the mwd first so no need to panic if the server lags and your mwd activates before the cloak, just hit cloak again.  
+However, you of course want to try and get the cloak in first to reduce the time an attacker has to target you.  
+Activating the MWD will also increase your signature radius, which will make you easier to target.
+
 <br>
 
 This is where to look
