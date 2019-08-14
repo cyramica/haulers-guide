@@ -2,6 +2,14 @@
 #### A written guide to hauling in EVE Online
 <br>  
 
+---
+
+**NOTE**  
+CCP intends to implement changes in september of 2019 which will make it so that Jump Freighters will jump to a covert ops cyno instead.  
+[Read the announcement here](https://forums.eveonline.com/t/chaos-era-continues-cyno-update/182197).
+
+---
+
 ## Jump Freighters
 Jump Freighters are the most advanced haulers in the game and take the most time to train into.  
 A Jump Freighters don't have to use regular jump gates and can instead jump to any low or null system, within range of their current system, where a **Cynosural Field** (cyno) has been lit.

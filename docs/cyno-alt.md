@@ -2,6 +2,13 @@
 #### A written guide to hauling in EVE Online
 <br>  
 
+---
+
+**NOTE**  
+CCP intends to implement changes in september of 2019 which will make it so that Jump Freighters will jump to a covert ops cyno instead.  
+[Read the announcement here](https://forums.eveonline.com/t/chaos-era-continues-cyno-update/182197).
+
+---
 
 ## Cyno alt
 Cyno alts are characters on a second account that are used by Jump Freighter Pilots to light a beacon for their Jump Freighter to jump to.
