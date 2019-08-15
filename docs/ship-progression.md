@@ -17,6 +17,34 @@ But they serve their role as a starting point for new players and are what you'l
 
 <br>
 
+### Sunesis
+
+The Sunesis is not really a hauling ship. It has a fairly small cargo hold, it looks like some kind of Cylon attack ship and it doesn't quite lend itself very well to the fantasy of being a space trucker.  
+However, it requires minimum skills and can be fitted for instant warp while still carrying around a 1K m³.  
+That means it's much safer to fly than a T1 hauler for a new player.
+
+Here's a fit that even an alpha account can fly:
+
+```
+[Sunesis, Alpha fit]
+Expanded Cargohold II
+Expanded Cargohold II
+Inertial Stabilizers II
+Inertial Stabilizers II
+
+Adaptive Invulnerability Field II
+Adaptive Invulnerability Field II
+Medium Shield Extender II
+Medium Shield Extender II
+
+
+Small Low Friction Nozzle Joints II
+Small Core Defense Field Extender II
+Small Core Defense Field Extender II
+```
+
+<br>
+
 ### Deep Space Transport and Blockade Runner
 
 DSTs and BRs have the same skill requirements which is why I've put them in the same tier here, but they fulfill very different roles.  
