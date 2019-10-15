@@ -5,8 +5,8 @@
 ---
 
 **NOTE**  
-CCP intends to implement changes in september of 2019 which will make it so that Jump Freighters will jump to a covert ops cyno instead.  
-[Read the announcement here](https://forums.eveonline.com/t/chaos-era-continues-cyno-update/182197).
+There's been changes to cynos and the addition of an industrial cyno in the September 2019 patch.  
+[Read the announcement here](https://forums.eveonline.com/t/chaos-era-continues-cyno-update/182197).  
 
 ---
 
