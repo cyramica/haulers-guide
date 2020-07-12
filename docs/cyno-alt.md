@@ -2,18 +2,13 @@
 #### A written guide to hauling in EVE Online
 <br>  
 
----
-
-**NOTE**  
-CCP intends to implement changes in september of 2019 which will make it so that Jump Freighters will jump to a covert ops cyno instead.  
-[Read the announcement here](https://forums.eveonline.com/t/chaos-era-continues-cyno-update/182197).
-
----
 
 ## Cyno alt
 Cyno alts are characters on a second account that are used by Jump Freighter Pilots to light a beacon for their Jump Freighter to jump to.
 
-The Cynosural Field Generator uses Liquid Ozone to work.  Make sure you bring enough with you in your cyno ship as well as in your Jump Freighter so that you're not left stranded and have to fly to some trade station to buy more.
+The Industrial Cynosural Field Generator uses Liquid Ozone to work.  Make sure you bring enough with you in your cyno ship as well as in your Jump Freighter so that you're not left stranded and have to fly to some trade station to buy more.
+
+The module can be quipped to T1 industrials, Blockade Runners, Deep Space Transports and the Venture.
 
 <br>
 
@@ -39,8 +34,8 @@ Although your character will be stuck in space for 10 minutes, I've been told th
 
 ### Skill plan
 
-The most important thing for a cyno alt is to be able to fly a ship and equip and use a Cynosural Field Generator.  
-It can be useful however to be able to jump between clones in different stations which is why I've taken the following skill plan from PushX's wiki.
+The most important thing for a cyno alt is to be able to fly a ship and equip and use an Industrial Cynosural Field Generator.  
+The modules itself only requires Cynosural Field Theory I, however it can be useful to be able to jump between clones in different stations which is why I've taken the following skill plan from PushX's wiki.
 
 ```
 CPU Management V
